@@ -1,2 +1,9 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
+
+
+修改撤销——有两种情况：1、文件的修改没有被提交到暂存区，撤销修改就回到和版本库一样的内容。2、文件被提交到暂存区后又进行了修改，撤销修改回到和暂存区文件的状态。
+
+修改了提交到了暂存区？
+commit —— reset ？？？
+直接reset？？
